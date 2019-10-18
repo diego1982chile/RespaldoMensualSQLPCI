@@ -1,0 +1,2 @@
+SOURCE_DBS=_DigiTC;tcpresentaciones;_Globales;General
+TARGET_DIRECTORY=C:\COPIED FILES\

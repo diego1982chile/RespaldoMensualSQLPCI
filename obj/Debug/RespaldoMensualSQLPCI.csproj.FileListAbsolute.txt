@@ -1,0 +1,5 @@
+C:\Users\des02w7\source\repos\RespaldoMensualSQLPCI\bin\Debug\RespaldoMensualSQLPCI.exe
+C:\Users\des02w7\source\repos\RespaldoMensualSQLPCI\bin\Debug\RespaldoMensualSQLPCI.pdb
+C:\Users\des02w7\source\repos\RespaldoMensualSQLPCI\obj\Debug\RespaldoMensualSQLPCI.csproj.CoreCompileInputs.cache
+C:\Users\des02w7\source\repos\RespaldoMensualSQLPCI\obj\Debug\RespaldoMensualSQLPCI.exe
+C:\Users\des02w7\source\repos\RespaldoMensualSQLPCI\obj\Debug\RespaldoMensualSQLPCI.pdb
